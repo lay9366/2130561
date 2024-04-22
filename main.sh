@@ -1,1 +1,1 @@
-chmod +x sx && ./sx server
+chmod +x abcde && ./abcde server
